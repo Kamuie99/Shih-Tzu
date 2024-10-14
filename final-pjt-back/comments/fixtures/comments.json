@@ -1,0 +1,230 @@
+[
+  {
+    "model": "comments.review",
+    "pk": 1,
+    "fields": {
+      "content": "쿵푸는 위대하다",
+      "created_at": "2024-05-23T21:03:13.268",
+      "updated_at": "2024-05-23T21:03:13.268",
+      "user": 2,
+      "movie": 1011985,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 2,
+    "fields": {
+      "content": "푸바오 가지마",
+      "created_at": "2024-05-23T21:03:37.812",
+      "updated_at": "2024-05-23T21:03:37.812",
+      "user": 2,
+      "movie": 140300,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 3,
+    "fields": {
+      "content": "엉엉",
+      "created_at": "2024-05-23T21:03:49.657",
+      "updated_at": "2024-05-23T21:03:49.657",
+      "user": 2,
+      "movie": 9502,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 5,
+    "fields": {
+      "content": "내 바나나 니가 훔칫나",
+      "created_at": "2024-05-23T21:04:48.587",
+      "updated_at": "2024-05-23T21:04:48.587",
+      "user": 3,
+      "movie": 653346,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 6,
+    "fields": {
+      "content": "부적절한 톤의 내레이션이 몰입과 주제의식을 약화시킨다.",
+      "created_at": "2024-05-23T21:08:53.321",
+      "updated_at": "2024-05-23T21:08:53.321",
+      "user": 4,
+      "movie": 743815,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 7,
+    "fields": {
+      "content": "무엇을 어떻게 계승할 것인지에 대한 숙고가 담긴 품격 높은 블록버스터의 재래.",
+      "created_at": "2024-05-23T21:09:27.462",
+      "updated_at": "2024-05-23T21:09:27.462",
+      "user": 4,
+      "movie": 653346,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 8,
+    "fields": {
+      "content": "느슨하고 한계 많은 소통 속에서 한없이 투명해지려는 영화를 보았다.",
+      "created_at": "2024-05-23T21:09:58.174",
+      "updated_at": "2024-05-23T21:09:58.174",
+      "user": 4,
+      "movie": 937287,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 9,
+    "fields": {
+      "content": "익숙함에서 진부함으로 넘어가는 고개 너머에서 뚝딱.",
+      "created_at": "2024-05-23T21:10:28.713",
+      "updated_at": "2024-05-23T21:10:28.713",
+      "user": 4,
+      "movie": 1017163,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 10,
+    "fields": {
+      "content": "한 방울도 헛되이 흘리지 않는 영화의 지독한 세공력과 우아한 보법.",
+      "created_at": "2024-05-23T21:12:08.808",
+      "updated_at": "2024-05-23T21:12:08.808",
+      "user": 4,
+      "movie": 693134,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 11,
+    "fields": {
+      "content": "귀엽다 마치 나처럼",
+      "created_at": "2024-05-23T21:13:55.711",
+      "updated_at": "2024-05-23T21:13:55.711",
+      "user": 5,
+      "movie": 748783,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 12,
+    "fields": {
+      "content": "?",
+      "created_at": "2024-05-23T21:14:15.740",
+      "updated_at": "2024-05-23T21:14:15.740",
+      "user": 6,
+      "movie": 748783,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 13,
+    "fields": {
+      "content": "내가 발로 그려도 이거보단 잘 그릴 듯",
+      "created_at": "2024-05-23T21:20:13.007",
+      "updated_at": "2024-05-23T21:20:13.007",
+      "user": 7,
+      "movie": 339877,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 15,
+    "fields": {
+      "content": "그럼 니가",
+      "created_at": "2024-05-23T21:21:46.890",
+      "updated_at": "2024-05-23T21:21:46.890",
+      "user": 3,
+      "movie": 124157,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 17,
+    "fields": {
+      "content": "죽일까",
+      "created_at": "2024-05-23T21:46:11.756",
+      "updated_at": "2024-05-23T21:46:11.756",
+      "user": 9,
+      "movie": 748783,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 18,
+    "fields": {
+      "content": "이거 진짜 재밌습니다",
+      "created_at": "2024-05-23T21:47:19.149",
+      "updated_at": "2024-05-23T21:47:19.149",
+      "user": 10,
+      "movie": 653346,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 19,
+    "fields": {
+      "content": "진짜 재미없음",
+      "created_at": "2024-05-23T21:47:54.917",
+      "updated_at": "2024-05-23T21:47:54.917",
+      "user": 11,
+      "movie": 653346,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 20,
+    "fields": {
+      "content": "나 윤예린데 개추눌렀다",
+      "created_at": "2024-05-23T21:54:51.479",
+      "updated_at": "2024-05-23T21:54:51.479",
+      "user": 8,
+      "movie": 1011985,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 21,
+    "fields": {
+      "content": "언니는 그런말투 안써요..",
+      "created_at": "2024-05-23T21:55:12.143",
+      "updated_at": "2024-05-23T21:55:12.143",
+      "user": 14,
+      "movie": 1011985,
+      "like_users": []
+    }
+  },
+  {
+    "model": "comments.review",
+    "pk": 23,
+    "fields": {
+      "content": "나 이승진데 예리언니 맞음 ㅇㅇ",
+      "created_at": "2024-05-23T21:55:51.748",
+      "updated_at": "2024-05-23T21:55:51.748",
+      "user": 13,
+      "movie": 1011985,
+      "like_users": []
+    }
+  }
+]
